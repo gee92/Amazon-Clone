@@ -1,0 +1,36 @@
+h1{
+    text-align: center;
+    color: orange;
+}
+h3{
+    padding-top: 2%;
+}
+
+.main-container{
+    padding: 1%;
+}
+.container{
+    text-align: center;
+  
+}
+
+.card-img-top{
+    list-style: none;
+    padding: 5px;
+    text-align: center;
+    margin: 0 auto;
+    height: 350px;
+    width: 270px;
+}
+
+.card-title{
+    text-align: center;
+}
+
+.card-text{
+    text-align: center;
+}
+
+.click{
+    text-align: center;
+}
